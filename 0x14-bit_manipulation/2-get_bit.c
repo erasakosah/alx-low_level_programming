@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * get_bit - return the value of a bit at an index in a decimal number
